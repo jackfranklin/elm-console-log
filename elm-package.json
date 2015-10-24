@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "A log function that converts to string first",
+    "repository": "https://github.com/jackfranklin/elm-console-log.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [
+      "ConsoleLog"
+    ],
+    "dependencies": {
+        "elm-lang/core": "2.1.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.1 <= v < 0.16.0"
+}
